@@ -1,4 +1,4 @@
-### Hey, I'm [Vedant](https://www.vedantsheel.com/) 👋
+### Hey, I'm [Vedant!](https://www.vedantsheel.com/) 👋
 
 - Studying Computer Science @ [University of Waterloo](https://uwaterloo.ca/computer-science/) and a recipient of the [TD Scholarship for Community Leadership](https://www.td.com/ca/en/about-td/community-giving/community-leadership-scholarship-for-canadians#accordion-43a3d67f6f-item-e02612e16f).
 - Currently involved in machine learning research at [MIT CSAIL](https://www.csail.mit.edu/) and the [University of Waterloo](https://uwaterloo.ca/).
