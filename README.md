@@ -5,4 +5,4 @@
 - Interested in AI, fintech, research, software engineering, and startups.
 - Reach me at [vedant.sheel@uwaterloo.ca](mailto:vedant.sheel@uwaterloo.ca)!
 
-[website](https://www.vedantsheel.com/) · [linkedin](https://www.linkedin.com/in/vedantsheel/) · [devpost](https://devpost.com/VedantSheel08) · [email](mailto:vedant.sheel@uwaterloo.ca) · [let's chat](https://cal.com/vedantsheel)
+[website](https://www.vedantsheel.com/) · [linkedin](https://www.linkedin.com/in/vedantsheel/) · [devpost](https://devpost.com/VedantSheel) · [email](mailto:vedant.sheel@uwaterloo.ca) · [let's chat](https://cal.com/vedantsheel)
